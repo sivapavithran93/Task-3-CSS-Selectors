@@ -4,6 +4,9 @@
 
 This project demonstrates the use of different CSS selectors to style HTML elements. It includes examples of element selectors, class selectors, ID selectors, pseudo-class selectors, and the `nth-child()` selector.
 
+## Website
+link: https://sivapavithran93.github.io/Task-3-CSS-Selectors/
+
 ## Features
 
 * Styled headings using a common CSS class.
